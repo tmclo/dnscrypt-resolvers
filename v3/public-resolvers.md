@@ -303,12 +303,20 @@ Hosted in Stockholm, Sweden. (https://dns.brahma.world)
 sdns://AgMAAAAAAAAAJ1syYTA1OmQwMTY6YWY4OjQwMDA6NzcxMDo2ZmM6YmRlMzpmZTBlXaDMEGDTnIMptitvvH0NbfkwmGm5gefmOS1c2PpAj02A5iBETr1nu4P4gHs5Iek4rJF4uIK9UKrbESMfBEz18I33zhBkbnMuYnJhaG1hLndvcmxkCi9kbnMtcXVlcnk
 
 
-## breddns
+## beardns
 
-BredDNS Luxembourg
-Non-logging DNSCrypt server located in Luxembourg, operated by @tmclo
+BearDNS Luxembourg
+Non-logging DNSCrypt server located in Luxembourg, operated by https://privacybear.uk/
 
 sdns://AQcAAAAAAAAADjEwNy4xODkuMTQuMTA2IIGsLg8Rh1PMdylC8hfmhnfwaJ0xojs8sbiS1zI3y_71IzIuZG5zY3J5cHQtY2VydC5kbnNjcnlwdC5icmVkLnJvY2tz
+
+
+## beardns-ipv6
+
+BearDNS Luxembourg
+Non-logging DNSCrypt server located in Luxembourg, operated by https://privacybear.uk/
+
+sdns://AQcAAAAAAAAAHlsyNjA1OjY0MDA6MzA6ZWZiYTpkZWFkOjpdOjQ0MyCBrC4PEYdTzHcpQvIX5oZ38GidMaI7PLG4ktcyN8v-9SMyLmRuc2NyeXB0LWNlcnQuZG5zY3J5cHQuYnJlZC5yb2Nrcw
 
 
 ## circl-doh
